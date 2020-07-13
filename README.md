@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+<a href="https://twitter.com/madhavsullad">
+  <img align="left" alt="Madhav Sullad | Twitter" width="21px" src="assets/Twitter_Logo_Blue.png" />
+</a>
+<a href="https://www.linkedin.com/in/madhav-sullad-610816161">
+ <img align="left" alt="Madhav Sullad | Linkedin" width="21px" src="assets/In-Bug.png"> 
+</a>
+<!--[Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavsullad&show_icons=true&hide=[%22prs%22,%22issues%22,%22contribs%22])-->
+[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhavsullad&show_icons=true&hide=[%22prs%22,%22issues%22,%22contribs%22])](https://github.com/madhavsullad)
 <!--
 **madhavsullad/madhavsullad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
