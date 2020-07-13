@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://twitter.com/madhavsullad">
-  <img align="left" alt="Madhav Sullad | Twitter" width="21px" src="assets/Twitter_Logo_Blue.png" />
+  <img align="left" alt="Madhav Sullad | Twitter" width="21px" src="https://raw.githubusercontent.com/madhavsullad/madhavsullad/master/assets/Twitter_Logo_Blue.png" />
 </a>
 <a href="https://www.linkedin.com/in/madhav-sullad-610816161">
- <img align="left" alt="Madhav Sullad | Linkedin" width="21px" src="assets/In-Bug.png"> 
+ <img align="left" alt="Madhav Sullad | Linkedin" width="21px" src="https://raw.githubusercontent.com/madhavsullad/madhavsullad/master/assets/In-Bug.png"> 
 </a>
 <!--
 **madhavsullad/madhavsullad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
