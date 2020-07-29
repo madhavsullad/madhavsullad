@@ -1,8 +1,8 @@
 ### Hi there, I'm Madhav! 👋
-<a href="https://twitter.com/madhavsullad">
+<a href="https://twitter.com/madhavsullad" target="_blank">
   <img align="left" alt="Madhav Sullad | Twitter" width="21px" src="https://raw.githubusercontent.com/madhavsullad/madhavsullad/master/assets/Twitter_Logo_Blue.png" />
 </a>
-<a href="https://www.linkedin.com/in/madhav-sullad-610816161">
+<a href="https://www.linkedin.com/in/madhav-sullad-610816161" target="_blank">
  <img align="left" alt="Madhav Sullad | Linkedin" width="21px" src="https://raw.githubusercontent.com/madhavsullad/madhavsullad/master/assets/In-Bug.png"> 
 </a>
 <!--
