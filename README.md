@@ -1,5 +1,5 @@
 # Hi there, I'm Madhav! 👋🏾
-<a onclick="window.open("https://twitter.com/madhavsullad");return false;">
+<a onclick="window.open("https://twitter.com/madhavsullad");return false;"/>
   <img align="left" alt="Madhav Sullad | Twitter" width="21px" src="https://raw.githubusercontent.com/madhavsullad/madhavsullad/master/assets/Twitter_Logo_Blue.png" />
 </a>
 <a onclick="window.open("https://www.linkedin.com/in/madhav-sullad-610816161");return false;">
