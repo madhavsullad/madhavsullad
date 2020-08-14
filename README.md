@@ -1,4 +1,4 @@
-# Hi there, I'm Madhav! 👋🏾
+# Hi there, I'm Madhav! 👋🏼
 <a href="https://twitter.com/madhavsullad"/>
   <img align="left" alt="Madhav Sullad | Twitter" width="21px" src="https://raw.githubusercontent.com/madhavsullad/madhavsullad/master/assets/Twitter_Logo_Blue.png" />
 </a>
